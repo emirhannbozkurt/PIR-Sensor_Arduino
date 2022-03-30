@@ -4,10 +4,10 @@ Arduino ve Proteus üzerinden PIR sensor kullanımı hedeflenmiştir.
 
 Dosyalar kısmında; 
 
-*Arduino kodları
+*Arduino kodları*
 
-*Devre Şeması
+*Devre Şeması*
 
-*Proteus dosyası
+*Proteus dosyası*
 
 *Proteus PIR Sensor Kütüphanesi* bulunmaktadır.
